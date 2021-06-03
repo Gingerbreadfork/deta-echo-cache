@@ -9,7 +9,7 @@ Clone the repo and deploy on a Deta Micro in just a few seconds!
 ```bash 
   git clone https://github.com/Gingerbreadfork/deta-echo-cache
   cd deta-echo-cache
-  deta new -p
+  deta new
 ```
     
 ## Usage
